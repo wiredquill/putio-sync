@@ -8,7 +8,7 @@ export default function app(state = fromJS({
   ready: false,
   oauth: {
     id: 2527,
-    callback: 'http://127.0.0.1:3000',
+    callback: 'http://10.0.0.10:3000',
   },
   config: {},
   currentUser: null,
